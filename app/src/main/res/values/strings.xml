@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gestión de Alumnos</string>
+    <string name="titulo_app">Lista de Alumnos</string>
+    <string name="sin_alumnos">No hay alumnos registrados</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="cd_agregar_alumno">Agregar Alumno</string>
+    <string name="cd_editar">Editar</string>
+    <string name="cd_eliminar">Eliminar</string>
+    <string name="hint_cuenta">Número de Cuenta</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_correo">Correo Electrónico</string>
+    <string name="hint_imagen">URL de la Imagen (Opcional)</string>
+</resources>
